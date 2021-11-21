@@ -1,2 +1,2 @@
-# phsthesis
+# phdthesis
 Codes for PhD thesis
